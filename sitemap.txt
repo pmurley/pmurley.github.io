@@ -1,0 +1,12 @@
+
+https://murley.io/blog/
+https://murley.io/cv/
+https://murley.io/feed.xml
+https://murley.io/
+https://murley.io/css/main.css
+https://murley.io/misc/
+https://murley.io/research/
+https://murley.io/sitemap.txt
+https://murley.io/css/main.css.map
+
+https://murley.io/blog/2016/02/08/Chewbaca-is-talking-in-his-sleep
